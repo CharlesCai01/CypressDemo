@@ -1,0 +1,15 @@
+{
+  "name": "cypressdemo",
+  "version": "1.0.0",
+  "description": "Build hello world cypress demo, and learn about the source code of cypress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
+}
